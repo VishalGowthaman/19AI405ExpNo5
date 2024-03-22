@@ -1,8 +1,8 @@
 ## ExpNo 5 : Implement Simple Hill Climbing Algorithm
 
-### Name:B.NARENDRAN
+### Name:Vishal Gowthaman K R
 
-### Register Number: 212222240069
+### Register Number: 212221230123
 
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
